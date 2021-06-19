@@ -1,0 +1,15 @@
+@import "src/styles/mixins";
+@import "src/styles/variables";
+
+.wrapper {
+  @include mainArea;
+}
+
+.name {
+  font-size: 1.5em;
+}
+
+.description {
+  margin-top: 18px;
+  color: $color-text-sub;
+}
