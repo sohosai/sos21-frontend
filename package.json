@@ -40,7 +40,7 @@
     "file-saver": "2.0.5",
     "firebase": "8.7.1",
     "husky": "4.3.8",
-    "lint-staged": "11.0.0",
+    "lint-staged": "11.0.1",
     "next-secure-headers": "2.2.0",
     "next-transpile-modules": "7.3.0",
     "normalize.css": "8.0.1",
